@@ -52,4 +52,4 @@ let stringArray = rawInput.split('\n');
 stringArray.pop();
 stringArray.shift();
 
-separate(stringArray);
+// separate(stringArray);
